@@ -1,0 +1,45 @@
+# ===== Simulation files =====
+work/
+modelsim.ini
+vsim.wlf
+*.wlf
+*.log
+*.vcd
+*.fst
+
+# ===== Vivado generated files =====
+.vivado/
+.cache/
+.runs/
+.hw/
+.ip_user_files/
+*.jou
+*.str
+*.xpr.user
+*.xml
+*.html
+
+# ===== Xilinx ISE generated files =====
+xst/
+iseconfig/
+*.ngc
+*.ngr
+*.bit
+*.bgn
+*.drc
+*.srp
+*.map
+*.par
+*.pad
+*.ptwx
+*.unroutes
+*.twx
+
+# ===== Build / output =====
+build/
+output/
+dist/
+
+# ===== OS junk =====
+.DS_Store
+Thumbs.db
